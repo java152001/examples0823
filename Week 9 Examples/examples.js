@@ -119,6 +119,7 @@ const busStops = [
 ];
 
 // TODO: add your own access token
+// this is important don't commit this to github.
 mapboxgl.accessToken = '';
 
 // This is the map instance
